@@ -11,7 +11,9 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" />&nbsp;
 
+- HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
 
 # Education:
