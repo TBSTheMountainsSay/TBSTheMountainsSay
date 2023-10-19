@@ -30,10 +30,10 @@
 ## Projects:
 | Name | Description | 
 | --- | --- | 
-| [[Social network]([https://github.com/TBSTheMountainsSay/social-network])(https://github.com/TBSTheMountainsSay/social-network)] | Проект с возможностями соцсети. Используется сервер. |
-| [ToDo list]([https://github.com/TBSTheMountainsSay/ToDo]) | Таск-трекер. Используется сервер. | 
-| [YouTube Comments]([https://github.com/TBSTheMountainsSay/CommentsTSX]) | Полная копия комментариев youtube. Используется сервер. |
-| [Taxi]([https://github.com/popolino/todo-app](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps)) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт.| 
+| [Social network](https://github.com/TBSTheMountainsSay/social-network) | Проект с возможностями соцсети. Используется сервер. Проект доступен для просмотра на GH-Pages. |
+| [ToDo list]([https://github.com/TBSTheMountainsSay/ToDo]) | Таск-трекер. Используется сервер. Проект доступен для просмотра на GH-Pages. | 
+| [YouTube Comments]([https://github.com/TBSTheMountainsSay/CommentsTSX]) | Полная копия комментариев youtube. Используется сервер. Проект доступен для просмотра на GH-Pages. |
+| [Taxi](https://github.com/popolino/todo-app) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на GH-Pages. | 
 
 
 
