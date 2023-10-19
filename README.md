@@ -27,13 +27,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Project List:
+## Projects:
 | Name | Description | 
 | --- | --- | 
-| [Vox-network](https://github.com/popolino/vox-typescript) | Проект с возможностями соцсети. Используется сервер. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
-| [Coindeer](https://github.com/popolino/coindeer) | Проект с отображением и сортировкой криптовалют.  | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
-| [Wayfinder](https://github.com/popolino/wayfinder) | Проект с использованием библиотеки Leaflet для отображения карт. Проект в разработке. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
-| [ToDo](https://github.com/popolino/todo-app) | Таск-трекер с возможностью создавать групповые задания с другими пользователями. Используется сервер и реализуется JWT авторизация. Проект в разработке.| TypeScript, SCSS, HTML, React, Redux Toolkit, Axios
+| [Social network]([https://github.com/TBSTheMountainsSay/social-network]) | Проект с возможностями соцсети. Используется сервер. |
+| [ToDo list]([https://github.com/TBSTheMountainsSay/ToDo]) | Таск-трекер. Используется сервер. | 
+| [YouTube Comments]([https://github.com/TBSTheMountainsSay/CommentsTSX]) | Полная копия комментариев youtube. Используется сервер. |
+| [Taxi]([https://github.com/popolino/todo-app](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps)) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт.| 
 
 
 
