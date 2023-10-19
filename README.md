@@ -28,8 +28,8 @@
 
 
 ## Project List:
-| Name | Description | Tools |
-| --- | --- | --- |
+| Name | Description | 
+| --- | --- | 
 | [Vox-network](https://github.com/popolino/vox-typescript) | Проект с возможностями соцсети. Используется сервер. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
 | [Coindeer](https://github.com/popolino/coindeer) | Проект с отображением и сортировкой криптовалют.  | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
 | [Wayfinder](https://github.com/popolino/wayfinder) | Проект с использованием библиотеки Leaflet для отображения карт. Проект в разработке. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
