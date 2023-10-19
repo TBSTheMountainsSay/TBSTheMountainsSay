@@ -33,7 +33,7 @@
 | [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением экипажей, адресов и возможностью заказать такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
 | [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/3dCone/). | 
 
-# Lendings:
+# Landings:
 | Name | Description | 
 | --- | --- | 
 | [Tzeezitje](https://github.com/TBSTheMountainsSay/Tzeezitje_Layout) | Лендинг ресторана Tzeezitje. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Tzeezitje_Layout/). |
