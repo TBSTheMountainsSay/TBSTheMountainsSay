@@ -16,7 +16,7 @@
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
 
 # Education:
-  - 🎓 Student of ISTU, Faculty of Informatics and Computer Science
+  - 🎓 ИжГТУ, Факультет информатики и вычислительной техники
 
 ### 📱Contact:
 | 📫 blackswadow@yandex.ru | ✈️ telegram: @The_mounta1ns |
@@ -25,6 +25,15 @@
         
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Project List:
+| Name | Description | Tools |
+| --- | --- | --- |
+| [Vox-network](https://github.com/popolino/vox-typescript) | Проект с возможностями соцсети. Используется сервер. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
+| [Coindeer](https://github.com/popolino/coindeer) | Проект с отображением и сортировкой криптовалют.  | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
+| [Wayfinder](https://github.com/popolino/wayfinder) | Проект с использованием библиотеки Leaflet для отображения карт. Проект в разработке. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
+| [ToDo](https://github.com/popolino/todo-app) | Таск-трекер с возможностью создавать групповые задания с другими пользователями. Используется сервер и реализуется JWT авторизация. Проект в разработке.| TypeScript, SCSS, HTML, React, Redux Toolkit, Axios
 
 
 
