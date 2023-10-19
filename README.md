@@ -30,18 +30,18 @@
 ## Projects:
 | Name | Description | 
 | --- | --- | 
-| [Social network](https://github.com/TBSTheMountainsSay/social-network) | Проект с возможностями соцсети. Используется сервер. Проект доступен для просмотра на GH-Pages. |
-| [ToDo list](https://github.com/TBSTheMountainsSay/ToDo) | Таск-трекер. Используется сервер. Проект доступен для просмотра на GH-Pages. | 
-| [YouTube Comments](https://github.com/TBSTheMountainsSay/CommentsTSX) | Полная копия комментариев youtube. Используется сервер. Проект доступен для просмотра на GH-Pages. |
-| [Taxi](https://github.com/popolino/todo-app) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на GH-Pages. | 
-| [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на GH-Pages. | 
+| [Social network](https://github.com/TBSTheMountainsSay/social-network) | Проект с возможностями соцсети. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/social-network/) (Для входа потребуются логин и пароль, их вы можете найти на странице репозитория). |
+| [ToDo list](https://github.com/TBSTheMountainsSay/ToDo) | Таск-трекер. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/ToDo/). | 
+| [YouTube Comments](https://github.com/TBSTheMountainsSay/CommentsTSX) | Полная копия комментариев youtube. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/CommentsTSX/). |
+| [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
+| [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/3dCone/). | 
 
 ## Lendings:
 | Name | Description | 
 | --- | --- | 
-| [Tzeezitje](https://github.com/TBSTheMountainsSay/Tzeezitje_Layout) | Лендинг ресторана Tzeezitje. Проект доступен для просмотра на GH-Pages. |
-| [SpaceX](https://github.com/TBSTheMountainsSay/Elon-Musk-Layout) | Лендинг для SpaceX. Проект доступен для просмотра на GH-Pages. | 
-| [Allods Online](https://github.com/TBSTheMountainsSay/Allods-Online-Layout) | Лендинг для онлайн игры Аллоды Онлайн. Проект доступен для просмотра на GH-Pages. |
+| [Tzeezitje](https://github.com/TBSTheMountainsSay/Tzeezitje_Layout) | Лендинг ресторана Tzeezitje. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Tzeezitje_Layout/). |
+| [SpaceX](https://github.com/TBSTheMountainsSay/Elon-Musk-Layout) | Лендинг для SpaceX. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Elon-Musk-Layout/). | 
+| [Allods Online](https://github.com/TBSTheMountainsSay/Allods-Online-Layout) | Лендинг для онлайн игры Аллоды Онлайн. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Allods-Online-Layout/). |
 
 
 
