@@ -18,7 +18,7 @@
 # Education:
   - 🎓 ИжГТУ, Факультет информатики и вычислительной техники.
 
-### 📱Contact:
+## 📱Contact:
 | 📫 blackswadow@yandex.ru | ✈️ telegram: @The_mounta1ns |
 | --- | --- |
           
@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Projects:
+# Projects:
 | Name | Description | 
 | --- | --- | 
 | [Social network](https://github.com/TBSTheMountainsSay/social-network) | Проект с возможностями соцсети. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/social-network/) (Для входа потребуются логин и пароль, их вы можете найти на странице репозитория). |
@@ -36,7 +36,7 @@
 | [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением экипажей, адресов и возможностью заказать такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
 | [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/3dCone/). | 
 
-## Lendings:
+# Lendings:
 | Name | Description | 
 | --- | --- | 
 | [Tzeezitje](https://github.com/TBSTheMountainsSay/Tzeezitje_Layout) | Лендинг ресторана Tzeezitje. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Tzeezitje_Layout/). |
