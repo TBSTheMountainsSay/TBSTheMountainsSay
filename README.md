@@ -33,7 +33,7 @@
 | [Social network](https://github.com/TBSTheMountainsSay/social-network) | Проект с возможностями соцсети. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/social-network/) (Для входа потребуются логин и пароль, их вы можете найти на странице репозитория). |
 | [ToDo list](https://github.com/TBSTheMountainsSay/ToDo) | Таск-трекер. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/ToDo/). | 
 | [YouTube Comments](https://github.com/TBSTheMountainsSay/CommentsTSX) | Полная копия комментариев youtube. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/CommentsTSX/). |
-| [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
+| [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением экипажей, адресов и возможностью заказать такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
 | [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/3dCone/). | 
 
 ## Lendings:
