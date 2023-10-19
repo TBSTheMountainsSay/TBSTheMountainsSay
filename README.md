@@ -30,7 +30,7 @@
 ## Projects:
 | Name | Description | 
 | --- | --- | 
-| [Social network]([https://github.com/TBSTheMountainsSay/social-network]) | Проект с возможностями соцсети. Используется сервер. |
+| [[Social network]([https://github.com/TBSTheMountainsSay/social-network])(https://github.com/TBSTheMountainsSay/social-network)] | Проект с возможностями соцсети. Используется сервер. |
 | [ToDo list]([https://github.com/TBSTheMountainsSay/ToDo]) | Таск-трекер. Используется сервер. | 
 | [YouTube Comments]([https://github.com/TBSTheMountainsSay/CommentsTSX]) | Полная копия комментариев youtube. Используется сервер. |
 | [Taxi]([https://github.com/popolino/todo-app](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps)) | Приложение с отображением автомобилей, адресов и заказом такси. Проект создан с использованием яндекс карт.| 
