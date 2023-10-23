@@ -1,5 +1,6 @@
 # Frontend Developer
 
+Resume: https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859?disableBrowserCache=true&hhtmFrom=resume_list
 
 # Skills:
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
