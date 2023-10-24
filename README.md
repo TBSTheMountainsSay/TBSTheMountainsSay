@@ -16,7 +16,9 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 - HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&layout=compact&theme=vision-friendly-default)](https://github.com/TBSTheMountainsSay/github-readme-stats)
+
+  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay)](https://github.com/TBSTheMountainsSay?tab=repositories)
+
 
 # Education:
   - 🎓 ИжГТУ, Факультет информатики и вычислительной техники.
