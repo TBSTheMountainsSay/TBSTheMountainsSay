@@ -17,7 +17,7 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
 
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay)](https://github.com/TBSTheMountainsSay?tab=repositories)
+  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay)](https://github.com/TBSTheMountainsSay?tab=repositories)
 
 
 # Education:
