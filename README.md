@@ -35,7 +35,7 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 | [YouTube Comments](https://github.com/TBSTheMountainsSay/CommentsTSX) | Полная копия комментариев youtube. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/CommentsTSX/). |
 | [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением экипажей, адресов и возможностью заказать такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
 | [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/3dCone/). | 
-| [Snake](https://github.com/TBSTheMountainsSay/Snake) | Игра "Змейка" [GH-Pages](https://tbsthemountainssay.github.io/Snake/). | 
+| [Snake](https://github.com/TBSTheMountainsSay/Snake) | Игра "Змейка". Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Snake/). | 
 
 # Landings:
 | Name | Description | 
