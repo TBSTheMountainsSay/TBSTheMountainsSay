@@ -36,7 +36,11 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 | [Taxi](https://github.com/TBSTheMountainsSay/Taxi_YandexMaps) | Приложение с отображением экипажей, адресов и возможностью заказать такси. Проект создан с использованием яндекс карт. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Taxi_YandexMaps/). | 
 | [3DCone](https://github.com/TBSTheMountainsSay/3dCone) | Приложение с использованием библиотеки react-three-fiber. Используется сервер. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/3dCone/). | 
 | [Snake](https://github.com/TBSTheMountainsSay/Snake) | Игра "Змейка". Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Snake/). | 
-| [Volvo](https://github.com/TBSTheMountainsSay/Volvo) | Сайт-визитка для Volvo. Используется API (apilayer.com) для валидации номера телефона. Из фишек: добавлен таймер бездействия пользователя на второй странице; Переход с 1 страницы на 2-ую ставит видео на паузу; Ввод номера телефона доступен через клавиши цифр и стрелок. Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Volvo/). | 
+| [Volvo](https://github.com/TBSTheMountainsSay/Volvo) | Сайт-визитка для Volvo. Используется API (apilayer.com) для валидации номера телефона. Из фишек: 
+- Добавлен таймер бездействия пользователя на второй странице;
+- Переход с 1 страницы на 2-ую ставит видео на паузу;
+- Ввод номера телефона доступен через клавиши цифр и стрелок.
+Проект доступен для просмотра на [GH-Pages](https://tbsthemountainssay.github.io/Volvo/). | 
 
 # Landings:
 | Name | Description | 
