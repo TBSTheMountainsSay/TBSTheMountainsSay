@@ -13,8 +13,9 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,figma,git,github,materialui)](https://skillicons.dev)
-
-<img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,figma,git,github,materialui" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 
 - HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github, MUI
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
