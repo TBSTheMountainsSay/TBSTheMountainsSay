@@ -15,6 +15,7 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,figma,git,github,materialui&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,redux,sass,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,materialui)](https://skillicons.dev)
 
 - HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github, MUI
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
