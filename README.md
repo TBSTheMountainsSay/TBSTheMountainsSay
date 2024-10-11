@@ -19,7 +19,7 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 
 
   [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&card_height=220)](https://github.com/TBSTheMountainsSay?tab=repositories)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TBSTheMountainsSay&card_height=220)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TBSTheMountainsSay&card_height=220)](https://git.io/streak-stats)
 
 
 # Education:
