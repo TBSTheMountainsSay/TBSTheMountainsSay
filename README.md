@@ -11,11 +11,8 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,figma,git,github,materialui&perline=12)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,redux,sass,figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,materialui)](https://skillicons.dev)
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
+<img height="40" src="https://skillicons.dev/icons?i=materialui" /> 
 
 - HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github, MUI
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
