@@ -19,7 +19,7 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
 
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&layout=compact&card_height=190)](https://github.com/TBSTheMountainsSay?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBSTheMountainsSay&layout=compact)](https://github.com/TBSTheMountainsSay?tab=repositories)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TBSTheMountainsSay&exclude_days=Sun%2CSat&card_height=170)](https://git.io/streak-stats)
 
 
