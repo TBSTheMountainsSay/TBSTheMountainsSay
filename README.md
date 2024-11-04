@@ -14,8 +14,9 @@ Resume: [HeadHunter](https://hh.ru/resume/28e56d45ff0c277c270039ed1f5a5337676859
 <img height="40" src="https://skillicons.dev/icons?i=git" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
 <img height="40" src="https://skillicons.dev/icons?i=materialui" />
+<img height="40" src="https://skillicons.dev/icons?i=cypress" />
 
-- HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github, MUI, Zustand
+- HTML, CSS, JS, TS, React, Redux, SCSS, Figma, Github, MUI, Cypress, Zustand
 - REST, AJAX, Кроссбраузерная вёрстка, Адаптивная вёрстка
 
 
